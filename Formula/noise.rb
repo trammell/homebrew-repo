@@ -4,7 +4,7 @@ class Noise < Formula
   homepage 'https://github.com/trammell/noise'
   version 'v0.1.0'
   url "#{homepage}/archive/refs/tags/0.1.tar.gz"
-  sha256 'ff00432eaa06b06a99374b3787be689e1e099977'
+  sha256 '78a2768a6c8edd13428fc5350c5943776edf5ff0205ce2356626241b02551650'
 
   def install
     bin.install 'noise'
